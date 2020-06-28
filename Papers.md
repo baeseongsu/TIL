@@ -1,2 +1,2 @@
 
-- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167), Sergey Ioffe, Christian Szegedy, ICML 2015
+- Batch normalization: Accelerating deep network training by reducing internal covariate shift (2015), S. Loffe and C. Szegedy [pdf](https://arxiv.org/abs/1502.03167)
