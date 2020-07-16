@@ -15,9 +15,11 @@
 #### Program Induction
 - [ ] Neural Program Meta-Induction (NIPS 2017) [[paper]](https://papers.nips.cc/paper/6803-neural-program-meta-induction.pdf)
 
-
 #### Question Answering
+- [x] Introduction to Neural Network based Approaches for Question Answering over Knowledge Graphs [[paper]](https://arxiv.org/pdf/1907.09361.pdf)
+- [ ] [[paper]](https://www.aclweb.org/anthology/N18-2047.pdf)
 
+<br/>
 
 - [ ] DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations [[paper]](https://arxiv.org/pdf/2006.03659.pdf)
 
