@@ -11,6 +11,7 @@
 
 #### Neural ODEs
 - [ ] Neural Ordinary Differential Equations (NIPS 2018) [[paper]](https://arxiv.org/pdf/1806.07366.pdf)
+- [ ] Hypersolvers: Toward Fast Continuous-Depth Models [[paper]](https://arxiv.org/abs/2007.09601)
 
 #### Program Induction
 - [x] NEURAL PROGRAMMER-INTERPRETERS (ICLR 2016) [[paper]](https://arxiv.org/pdf/1511.06279.pdf)
