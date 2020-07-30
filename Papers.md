@@ -13,11 +13,13 @@
 - [ ] Neural Ordinary Differential Equations (NIPS 2018) [[paper]](https://arxiv.org/pdf/1806.07366.pdf)
 
 #### Program Induction
+- [x] NEURAL PROGRAMMER-INTERPRETERS (ICLR 2016) [[paper]](https://arxiv.org/pdf/1511.06279.pdf)
+- [x] NEURAL PROGRAMMER: INDUCING LATENT PROGRAMS WITH GRADIENT DESCENT (ICLR 2016) [[paper]](https://arxiv.org/pdf/1511.04834.pdf)
 - [ ] Neural Program Meta-Induction (NIPS 2017) [[paper]](https://papers.nips.cc/paper/6803-neural-program-meta-induction.pdf)
 
 #### Question Answering
 - [x] Introduction to Neural Network based Approaches for Question Answering over Knowledge Graphs [[paper]](https://arxiv.org/pdf/1907.09361.pdf)
-- [ ] [[paper]](https://www.aclweb.org/anthology/N18-2047.pdf)
+- [ ] Strong Baselines for Simple Question Answering over Knowledge Graphs with and without Neural Networks [[paper]](https://www.aclweb.org/anthology/N18-2047.pdf)
 
 <br/>
 
