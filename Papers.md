@@ -14,9 +14,11 @@
 
 #### Transformer
 
-##### Must Have Read
+##### Must Have Read :star:
 
-- [ ] Attention Is All You Need (NIPS 2017) [[paper]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
+- [x] Attention Is All You Need (NIPS 2017) [[paper]](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
+  - [Illustrated-Transformer](http://jalammar.github.io/illustrated-transformer/)
+  - [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 - [ ] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [[paper]](https://arxiv.org/abs/1810.04805)
 
 ##### Understanding the Architecture
@@ -24,9 +26,12 @@
 - [ ] Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned (ACL 2019) [[paper]](https://arxiv.org/pdf/1905.09418.pdf)
 - [ ] Are Sixteen Heads Really Better than One? (NIPS 2019) [[paper]](https://papers.nips.cc/paper/9551-are-sixteen-heads-really-better-than-one.pdf)
 
-##### Sequence Length problem
+##### Variants
+
+- [ ] Longformer: The Long-Document Transformer [[paper]](https://arxiv.org/abs/2004.05150)
 
 - [x] Big Bird: Transformers for Longer Sequences [[paper]](https://arxiv.org/abs/2007.14062)
+  
   - Longformer + Random Attention (random walk on multiple layers)
 
 <br/>
@@ -43,9 +48,9 @@
 
 <br/>
 
-#### Representation Learning
+#### Self-Supervised Learning
 
-##### Deep Metric Learning
+##### Contrastive Learning
 
 - [ ] DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations [[paper]](https://arxiv.org/pdf/2006.03659.pdf)
 
