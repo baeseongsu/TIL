@@ -1,5 +1,5 @@
 # BlueBERT-Base, Uncased, PubMed
-wget https://ftp.ncbi.nlm.nih.gov/pub/lu/Suppl/NCBI-BERT/NCBI_BERT_pubmed_uncased_L-12_H-768_A-12.zip -d bluebert_base_pubmed;
+wget https://ftp.ncbi.nlm.nih.gov/pub/lu/Suppl/NCBI-BERT/NCBI_BERT_pubmed_uncased_L-12_H-768_A-12.zip -O bluebert_base_pubmed.zip;
 unzip bluebert_base_pubmed.zip -d bluebert_base_pubmed/;
 rm bluebert_base_pubmed.zip;
 

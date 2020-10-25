@@ -1,5 +1,5 @@
 # BlueBERT-Base, Uncased, PubMed+MIMIC-III
-wget https://ftp.ncbi.nlm.nih.gov/pub/lu/Suppl/NCBI-BERT/NCBI_BERT_pubmed_mimic_uncased_L-12_H-768_A-12.zip -d bluebert_base_pubmed_mimic;
+wget https://ftp.ncbi.nlm.nih.gov/pub/lu/Suppl/NCBI-BERT/NCBI_BERT_pubmed_mimic_uncased_L-12_H-768_A-12.zip -O bluebert_base_pubmed_mimic.zip;
 unzip bluebert_base_pubmed_mimic.zip -d bluebert_base_pubmed_mimic/;
 rm bluebert_base_pubmed_mimic.zip;
 
